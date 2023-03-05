@@ -1,8 +1,8 @@
 ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&center=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Alex" alt="Typing SVG" /></a>
-#### I am Frontender
-Novice developer Ru/En
+#### I am frontender
 
-Skills: REACT / JS / HTML / CSS
+
+Skills: REACT / JS / HTML / CSS / NODE JS / MONGO
 
 - 🔭 I’m currently working on React-app. This is a simplified analogue of Instagram. 
 - 🌱 I’m currently learning React 
