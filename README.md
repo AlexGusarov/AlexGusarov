@@ -2,12 +2,8 @@
 #### I am frontender
 
 
-Skills: REACT / JS / HTML / CSS / NODE JS / MONGO
+Skills: REACT / NEXT / JS / TAILWIND / NODE JS / MONGO /  
 
-- 🔭 I’m currently working on React-app. This is a simplified analogue of Instagram. 
-- 🌱 I’m currently learning React 
-- 👯 I’m looking to collaborate on charity projects 
-- 📫 How to reach me: radiogusarov@gmail.com 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AlexGusarov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/AlexeyGusarov0)  
 
