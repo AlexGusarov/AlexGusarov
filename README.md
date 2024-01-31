@@ -6,4 +6,4 @@
 - Backend: Node.js, Express, REST APIs
 - Databases: MongoDB
 - DevOps: Vercel, Netlify
-- Tools: Git, Webpack, ESLint, Prettier, Postman
+- Tools: Git, Figma, Webpack, ESLint, Prettier, Postman
