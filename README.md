@@ -2,7 +2,7 @@
 # Alex Gusarov
 ## Fullstack-developer
 #### Technical Skills
-- Frontend: **React, Next.js, Tailwind CSS, Responsive Design**
+- Frontend: **React, Next.js, TypeScript, Tailwind CSS, Jest, Testing Library**
 - Backend: **Node.js, Express, REST APIs, Google API**
 - Databases: **MongoDB**
 - DevOps: **Vercel, Netlify**
